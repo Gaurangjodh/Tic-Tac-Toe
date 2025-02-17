@@ -7,6 +7,9 @@
 }
 body{
     margin: 0;
+    background-image: url(Tic-tac-bg2.png);
+    background-size:contain;
+    background-repeat: no-repeat;
 }
 .board{
     width: 100vw;
